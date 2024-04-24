@@ -22,6 +22,6 @@ The simulation models are meticulously crafted to mirror real-world supermarket 
 This project follows ethical guidelines in data handling and simulation practices, ensuring accuracy and reliability in its outputs.
 
 ### Acknowledgements
-Special thanks to the academic mentors and peers who provided valuable feedback throughout the development of this project.
+Special thanks to teachers who provided valuable feedback throughout the development of this project.
 
 **Creator**: Jaume Mora
